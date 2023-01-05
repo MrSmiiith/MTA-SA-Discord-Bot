@@ -1,0 +1,36 @@
+{
+  "name": "mta-sa-discord-bot",
+  "version": "1.0.0",
+  "description": "Full UCP Bot systemon owl-gaming backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSmiiith/MTA-SA-Discord-Bot.git"
+  },
+  "keywords": [
+    "mtasa",
+    "gaming",
+    "mysql",
+    "ucp",
+    "discord",
+    "bot",
+    "mtasastatus",
+    "status"
+  ],
+  "author": "Rayane Merzoug (MrSmith#0069)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSmiiith/MTA-SA-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/MrSmiiith/MTA-SA-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mysql-database": "^1.3.0",
+    "path": "^0.12.7"
+  }
+}
